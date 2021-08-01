@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-I am Amit Kumar. My main interest lies in Data Science . I also have knowledge of Analytics Tools Tableau and PowerBi and Big Data . I am always curious to learn something new.
+I am Amit Kumar. My main interest lies in Data Engineer . I also have knowledge of Analytics Tools Tableau and PowerBi and Big Data . I am always curious to learn something new.
 
 <!--
 **amit-jiit/amit-jiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
